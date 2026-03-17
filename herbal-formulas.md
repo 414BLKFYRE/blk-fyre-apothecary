@@ -7,6 +7,7 @@
 - Jasmine 
 - Ylang Ylang 
 
-## Energy Balm
+## Energy Blend
 - Bergamont 
-- Frankincense 
+- Frankincense
+- Rose 
